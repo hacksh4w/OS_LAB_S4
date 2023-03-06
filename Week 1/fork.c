@@ -12,16 +12,19 @@ int main()
     //   0 is returned to the child process.
     int a = 10;
     printf("%d \n",&a);
-    printf("parent");
    int id = fork();
 
-	if  (id == 0){
+	if (id == 0){
     
 	a = a+1;
-
-	printf("child");
+	printf("\n %d",a);
 	}
-	pid_t pid2=  getpid();
-	printf("%d\n",a);  
+	else if (id>0){
+		a = a- 1;
+		printf("\n%d",a);
+	}
+	else {
+	printf("Error!, process not created");}
+	pid_t pid2=  getpid();  
     // All statements below the (fork) are executed in both parent and child process
 }
