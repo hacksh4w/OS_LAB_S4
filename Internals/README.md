@@ -9,3 +9,10 @@ Write a shell program that allows user to confirm the existence of a directory b
 - [Code with create and destroy option for directories](shell-dir.sh)
 - [Code with Delete option alone](shell-dir2.sh)
 - [Menu driven program](shell-dir3.sh)
+
+### Code demonstrated with [shell-dir.sh](shell-dir.sh)
+
+![Screenshot from 2023-06-14 06-16-18](https://github.com/hacksh4w/OS_LAB_S4/assets/91671136/ce004d68-7df2-4982-84d2-0d787a32579f)
+![Screenshot from 2023-06-14 06-18-03](https://github.com/hacksh4w/OS_LAB_S4/assets/91671136/08e18613-6549-47fe-ba6b-c33155bf8f29)
+![Screenshot from 2023-06-14 06-19-05](https://github.com/hacksh4w/OS_LAB_S4/assets/91671136/96a1a8a1-d95b-4806-afe8-000084586935)
+
