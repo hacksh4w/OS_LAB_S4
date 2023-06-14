@@ -6,6 +6,6 @@
 
 Write a shell program that allows user to confirm the existence of a directory before creating or deleting it. To  destroy the specified directory, the program hsould generate a backup file in directory specified by user. the backup directorys name should end with date when the backup was created. 
 
-- [Code with crrate and destroy option for directories](shell-dir.sh)
+- [Code with create and destroy option for directories](shell-dir.sh)
 - [Code with Delete option alone](shell-dir2.sh)
 - [Menu driven program](shell-dir3.sh)
