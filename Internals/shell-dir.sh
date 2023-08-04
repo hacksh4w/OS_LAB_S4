@@ -1,7 +1,6 @@
-
 #!/bin/bash
 
-# `-p` vechu readingum printing a prompt message um  simultaneously nadathham
+# `-p` vechu, readingum printing a prompt message um simultaneously nadathham
 read -p "Enter 'create' to create a directory or 'delete' to delete a directory: " operation
 
 if [ "$operation" = "create" ]; then
